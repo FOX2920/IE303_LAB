@@ -10,7 +10,7 @@ This is a simple graphical user interface (GUI) login application built using Ja
 ## Getting Started
 To run the application, you need to have Java installed on your system. Follow these steps:
 1. Clone or download the repository containing the source code.
-2. Open the project in your preferred Java Integrated Development Environment (IDE) such as NetBeans, Eclipse, or IntelliJ IDEA.
+2. Open the project in your preferred Java Integrated Development Environment (IDE) such as **NetBeans(Recommend)**, Eclipse, or IntelliJ IDEA.
 3. Build and run the `Login_app.java` file.
 4. The application window will open, allowing you to interact with the login form.
 
